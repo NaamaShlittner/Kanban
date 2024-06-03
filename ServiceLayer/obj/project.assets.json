@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\naama\\.nuget\\packages\\": {}
+    "C:\\Users\\Nadav\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\naama\\Documents\\בן גוריון\\2024\\סמסטר ב\\הנדסת תוכנה\\מטלה 1\\ServiceLayer\\ServiceLayer\\ServiceLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Nadav\\Projects\\Kanban\\ServiceLayer\\ServiceLayer.csproj",
       "projectName": "ServiceLayer",
-      "projectPath": "C:\\Users\\naama\\Documents\\בן גוריון\\2024\\סמסטר ב\\הנדסת תוכנה\\מטלה 1\\ServiceLayer\\ServiceLayer\\ServiceLayer.csproj",
-      "packagesPath": "C:\\Users\\naama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\naama\\Documents\\בן גוריון\\2024\\סמסטר ב\\הנדסת תוכנה\\מטלה 1\\ServiceLayer\\ServiceLayer\\obj\\",
+      "projectPath": "C:\\Users\\Nadav\\Projects\\Kanban\\ServiceLayer\\ServiceLayer.csproj",
+      "packagesPath": "C:\\Users\\Nadav\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nadav\\Projects\\Kanban\\ServiceLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\naama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nadav\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
