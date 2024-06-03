@@ -10,8 +10,32 @@ namespace ServiceLayer
     {
         private UserFacade uf;
 
-        public Response SignUp(string email, string password);
+        /// <summary>
+        /// sign up as a new user
+        /// </summary>
+        /// <param name="email"></param>
+        /// <param name="password"></param>
+        /// <returns>
+        /// Response
+        /// </returns>
+        /// <exception cref="NotImplementedException"></exception>
+        public Response SignUp(string email, string password)
+        {
+            throw new NotImplementedException("To Do");
+        }
 
-        public Response SignIn(string email, string password);
+        /// <summary>
+        /// sign in to user to exist user
+        /// </summary>
+        /// <param name="email"></param>
+        /// <param name="password"></param>
+        /// <returns>
+        /// Response
+        /// </returns>
+        /// <exception cref="NotImplementedException"></exception>
+        public Response SignIn(string email, string password)
+        {
+            throw new NotImplementedException("To Do");
+        }
     }
 }
